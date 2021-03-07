@@ -68,11 +68,13 @@ $ hugo new posts/POST_NAME.md
 
 - https://themes.gohugo.io/tags/blog/
 - https://github.com/theNewDynamic/gohugo-theme-ananke
+- http://tachyons.io/docs/themes/skins/
+
+- https://bookdown.org/yihui/rmarkdown-cookbook/indent-text.html
+- https://riptutorial.com/markdown/example/1796/strikethrough
 
 - https://formspree.io/library
-- http://tachyons.io/docs/themes/skins/
-- https://bookdown.org/yihui/rmarkdown-cookbook/indent-text.html
-- https://prettier.io/docs/en/cli.html
+- https://prettier.io/docs/en/cli1.html
 
 ## Resources <a name = "resources"></a>
 

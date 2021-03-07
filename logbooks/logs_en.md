@@ -87,7 +87,7 @@ As soon as we make the dailies where I work.
 
 # 2021-02-18
 
-- Yesterday I learned from @ viniseneda # 6780
+- Yesterday I learned from [@viniseneda](https://github.com/viniseneda)
   on how bitwise operations optimize the code: ~~ make comparisons with `|` instead of `||`. ~~ Modern compilers do several different optimizations, and these vary from compiler to compiler. The ideal is to analyze the generated assembly to know which optimizations are best for the compiler used:
   - https://stackoverflow.com/questions/52137520/when-use-bitwise-operations-instead-of-arithmetic-alternatives
   - https://github.com/agavrel/42-Bitwise_Operators
@@ -95,7 +95,7 @@ As soon as we make the dailies where I work.
 
 # 2021-02-19
 
-- Yesterday I learned from @ viniseneda # 6780
+- Yesterday I learned from [@viniseneda](https://github.com/viniseneda)
   about the difference between arrays and pointers, between memory stack and heap, and about static and extern pointers.
   - https://stackoverflow.com/questions/29717970/do-i-need-to-free-char-array-of-fixed-length
   - https://vivadifferences.com/difference-between-stack-and-heap-in-c /
