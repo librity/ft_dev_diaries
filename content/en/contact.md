@@ -7,7 +7,7 @@ type: page
 menu: main
 ---
 
-Feel free to hit me up if you have any questions I can help you with.
+Feel free to hit me up if you have any questions, comments or suggestions.
 I check and read my emails almost every day!
 
 {{< form-contact action="https://formspree.io/f/xzbknppe"  >}}
