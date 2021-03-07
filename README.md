@@ -37,25 +37,23 @@ $ choco install hugo-extended -confirm
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+Clone the repo and start a development server:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+```bash
+$ git clone https://github.com/librity/ft_dev_diaries.git
+$ cd ft_dev_diaries
+$ hugo server -D
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+Open http://localhost:1313/ on your web browser.
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Create new posts with:
+
+```bash
+$ hugo new posts/POST_NAME.md
+```
 
 ## Docs <a name = "docs"></a>
 
