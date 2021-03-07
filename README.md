@@ -64,11 +64,15 @@ $ hugo new posts/POST_NAME.md
 ## Docs <a name = "docs"></a>
 
 - https://gohugo.io/getting-started/quick-start/
+- https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+
 - https://themes.gohugo.io/tags/blog/
 - https://github.com/theNewDynamic/gohugo-theme-ananke
+
 - https://formspree.io/library
-- https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 - http://tachyons.io/docs/themes/skins/
+- https://bookdown.org/yihui/rmarkdown-cookbook/indent-text.html
+- https://prettier.io/docs/en/cli.html
 
 ## Resources <a name = "resources"></a>
 

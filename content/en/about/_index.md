@@ -15,4 +15,4 @@ Every single day I'll write an update and post it here:
 
 - What I did yesterday
 - What am I going to do today
-- What was my biggest impediment 
+- What was my biggest impediment

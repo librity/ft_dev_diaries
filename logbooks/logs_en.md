@@ -212,5 +212,5 @@ Finally, I added github actions to my project, which automatically run testers i
 # 2021-03-07
 
 - Yesterday I decided to put all my daily updates on a statistical website with Hugo. I thought it was a good opportunity to learn the technology, and I'm really enjoying it. I also studied other things and I was not able to work much in printf.
-- https://42devdiaries.netlify.app/
+- https://42devdiaries.netlify.app/pt/
 - Today I will continue working on printf.

@@ -8,6 +8,6 @@ menu: main
 ---
 
 Fique à vontade de entrar em contato caso tenhaalguma dúvida ou suggestão.
-Eu verifico e leio meus e-mails quase todos os dias! 
+Eu verifico e leio meus e-mails quase todos os dias!
 
 {{< form-contact action="https://formspree.io/f/xzbknppe"  >}}
