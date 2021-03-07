@@ -10,19 +10,19 @@
 
 ## About <a name = "about"></a>
 
-Ever since I started studying at 42 S Paulo I write daily updates on my
-progress and share them with my squad. They usually contain beginner-friendly
-tips about the project I'm currently doing and about programming in general.
+About a month ago I began my journey at [42 S Paulo](https://www.42sp.org.br/), and
+I started writing daily updates on my progress and sharing them with my squad.
+They're full of beginner-friendly tips on my current project and about coding in general.
 
-A friend suggested I should post these updates online for posterty's sake. I was
-also studying GO and I came across the static site generator
-[Hugo](https://gohugo.io/), so I thought I'd give it a shot.
+A friend told me I should post these updates online for posterty's sake. I was
+studying GO the other night and I came across a new static site generator
+called [Hugo](https://gohugo.io/), so I thought I'd give it a shot.
 
 ## Getting Started <a name = "getting_started"></a>
 
 ### Prerequisites
 
-All you need to get started is the latetes Hugo executable somewhere in your path.
+All you need to get started is the latest version of Hugo in your `$PATH`.
 
 - https://gohugo.io/getting-started/installing/
 
@@ -59,6 +59,8 @@ $ hugo new posts/POST_NAME.md
 
 - https://gohugo.io/getting-started/quick-start/
 - https://themes.gohugo.io/tags/blog/
+- https://github.com/theNewDynamic/gohugo-theme-ananke
+- https://formspree.io/library
 
 ## Resources <a name = "resources"></a>
 
@@ -68,3 +70,4 @@ Themes I liked:
 - https://themes.gohugo.io/anatole/
 - https://themes.gohugo.io/hugo-theme-diary/
 - https://themes.gohugo.io/hugo-researcher/
+- https://github.com/formspree/blogophonic-hugo
