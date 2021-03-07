@@ -2,7 +2,7 @@ Every day I write an update of my progress on 42, replying:
 
 - What I did yesterday
 - What am I going to do today
-- What was my biggest impediment
+- What was my biggest obstacle
 
 As soon as we make the dailies where I work.
 
@@ -10,37 +10,37 @@ As soon as we make the dailies where I work.
 
 - Yesterday I configured my libft makefile and did 6 of the mandatory functions
 - Today I plan to continue libft memory functions
-- My biggest impediment was the make documentation: it has several cryptic rules and 50 different ways to do the same thing.
+- My biggest obstacle was the make documentation: it has several cryptic rules and 50 different ways to do the same thing.
 
 # 2021-02-06
 
 - Friday I advanced to the second part of libft, to the ft_split function.
 - Today I plan to finish the second part of the libft and start the bonuses
-- My biggest impediment was knowing which corner cases the moulinette will test. I hope the automatic tests charge for everything.
+- My biggest obstacle was knowing which corner cases the moulinette will test. I hope the automatic tests charge for everything.
 
 # 2021-02-07
 
 - Yesterday I finished all the mandatory functions of libft and started the bonus.
 - Today I plan to finish the bonus and test everything on the guacamole.
-- My biggest impediment was ft_split: this function was very boring to implement. Ft_itoa was also very rough.
+- My biggest obstacle was ft_split: this function was very boring to implement. Ft_itoa was also very rough.
 
 # 2021-02-08
 
 - Yesterday I finished the libft bunus, corrected the tests that were failing and made the first correction.
 - If I open a slot I plan to make the second correction today.
-- This week and next I will take classes to get the license, and I will be unavailable after 7pm. My biggest impediment is to find a correction slot before 7pm.
+- This week and next I will take classes to get the license, and I will be unavailable after 7pm. My biggest obstacle is to find a correction slot before 7pm.
 
 # 2021-02-09
 
 - Yesterday I didn't do anything related to the 42's cursus.
 - Today I'm going to do my second libft correction.
-- My biggest impediment is the classes to get the license: go from 19h to 23h. I'm coming home late.
+- My biggest obstacle is the classes to get the license: go from 19h to 23h. I'm coming home late.
 
 # 2021-02-10
 
 - Yesterday I did the second libft correction.
 - If I have time, today I will install the vm to be able to make evaluations of other cadets and to earn points.
-- My biggest impediment in these last days has been time.
+- My biggest obstacle in these last days has been time.
 
 # 2021-02-11
 
@@ -57,14 +57,14 @@ As soon as we make the dailies where I work.
 - Yesterday I implemented unit tests with Unity on Libft (only 14 functions, WIP):
   - https://github.com/librity/ft_libft/tree/main/tests
 - Today I'm starting get_next_line.
-- I had no impediments.
+- I had no obstacles.
 
 # 2021-02-15
 
 - Yesterday I started get_next_line. I already have a good idea of ​​what to do. I am finding a way to advance the position of the file descriptor in `read`.
   I'm also trying to understand how I'm going to allocate enough memory for an entire line, since I can only read `BUFFER_SIZE` bytes at a time, and the line can be longer than this` BUFFER_SIZE`.
 - Today I will not be able to code much for work and the CFC.
-- My biggest impediment was the lack of context: get_next_line is like a `getc` so it takes the entire line.
+- My biggest obstacle was the lack of context: get_next_line is like a `getc` so it takes the entire line.
 
 # 2021-02-16
 
@@ -113,7 +113,7 @@ As soon as we make the dailies where I work.
 - Yesterday I refactored and corrected (almost) all the errors of get_next_line. I also created a script to facilitate the tests of the project:
   - https://github.com/librity/ft_get_next_line/blob/main/github_testers.sh
 - Today I'm going to make get_next_line pass the missing tests and evaluate if it's worth making the bonus.
-- My biggest impediment was to open the automatic tests to see what was failing.
+- My biggest obstacle was to open the automatic tests to see what was failing.
 
 # 2021-02-22
 
@@ -132,7 +132,7 @@ As soon as we make the dailies where I work.
   Since I can't sign up for another project until I finish this one, I started printf on my own: I studied various arguments with `stdarg.h` and added some functions to my libft.
   The Git Workshop was awesome: the guy was a lot of mangia.
 - I intend to continue printf, starting by defining a scalable structure for it.
-- My biggest impediment is the netwhat retry time.
+- My biggest obstacle is the netwhat retry time.
 
 # 2021-02-25
 
@@ -150,13 +150,13 @@ Finally, I added github actions to my project, which automatically run testers i
 
 - Today I will continue the printf, starting with the makefile.
 
-- My biggest impediment is still the netwhat retry time.
+- My biggest obstacle is still the netwhat retry time.
 
 # 2021-02-26
 
 - Yesterday I managed to make a good progress in printf: I already have a structured code that prints strings, chars and ints.
 - Today I will continue the printf.
-- My biggest impediment is still the netwhat retry time.
+- My biggest obstacle is still the netwhat retry time.
 
 # 2021-02-27
 
