@@ -215,4 +215,5 @@ Por fim, adicionei github actions no meu projeto, que automaticamente rodam os t
 
 - Ontem eu resolvi botar todos meus updates diarios num site estatico com Hugo. Achei uma boa oportunidade de aprender a tecnologia, e estou gostando muito. Tambem estudei outras coisas e nao consegui trabalhar muito no printf.
 - https://github.com/librity/ft_dev_diaries
+- https://42devdiaries.netlify.app/
 - Hoje vou continuar trabalhando no printf.
