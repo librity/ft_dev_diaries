@@ -10,11 +10,11 @@
 
 ## About <a name = "about"></a>
 
-About a month ago I began my journey at [42 S Paulo](https://www.42sp.org.br/), and
-I started writing daily updates on my progress and sharing them with my squad.
-They're full of beginner-friendly tips on my current project and about coding in general.
+About a month ago I began my journey at [42 S Paulo](https://www.42sp.org.br/).
+I started writing daily updates and sharing them with my squad. They're full of
+beginner-friendly tips about 42's projects and coding in general.
 
-A friend told me I should post these updates online for posterty's sake. I was
+A friend told me I should post these online for posterty's sake. I was
 studying GO the other night and I came across a new static site generator
 called [Hugo](https://gohugo.io/), so I thought I'd give it a shot.
 
@@ -62,6 +62,7 @@ $ hugo new posts/POST_NAME.md
 - https://github.com/theNewDynamic/gohugo-theme-ananke
 - https://formspree.io/library
 - https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+- http://tachyons.io/docs/themes/skins/
 
 ## Resources <a name = "resources"></a>
 
