@@ -61,6 +61,9 @@ $ hugo new posts/POST_NAME.md
 - https://themes.gohugo.io/tags/blog/
 - https://github.com/theNewDynamic/gohugo-theme-ananke
 - https://formspree.io/library
+- https://gohugo.io/hosting-and-deployment/hosting-on-github/
+- https://docs.github.com/en/github/working-with-github-pages/about-github-pages#user--organization-pages
+- https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
 ## Resources <a name = "resources"></a>
 
