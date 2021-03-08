@@ -1,46 +1,50 @@
-title = "42 Dev Diaries"
-baseURL = "https://42devdiaries.netlify.app/"
+baseURL      = "https://42devdiaries.netlify.app/"
 languageCode = "en-us"
-theme = "ananke"
+theme        = "ananke"
+title        = "42 Dev Diaries"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 12
-googleAnalytics = ""
-enableRobotsTXT = true
-disqusShortname = "42devdiaries"
+Paginate               = 12
+SectionPagesMenu       = "main"
+disqusShortname        = "42devdiaries"
+enableRobotsTXT        = true
+googleAnalytics        = ""
 
 [languages]
   [languages.en]
-    title = "42 Dev Diaries"
-    weight = 1
-    contentDir = "content/en"
+  contentDir = "content/en"
+  title      = "42 Dev Diaries"
+  weight     = 1
   [languages.pt]
-    title = "Diario Dev da 42"
-    weight = 2
-    contentDir = "content/pt"
+  contentDir = "content/pt"
+  title      = "Diario Dev da 42"
+  weight     = 2
 
 [sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "daily"
+filename   = "sitemap.xml"
+priority   = 0.5
 
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "Daily blog posts about my progress on 42 S Paulo."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/librity/ft_dev_diaries"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/luis-geniole-b2b22aba/"
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-light-silver"
-  featured_image = "/images/ft_s_paulo.jpg"
-  recent_posts_number = 2
+description = "Daily blog posts about my progress on 42 S Paulo."
+favicon     = ""
+site_logo   = ""
+
+background_color_class = "bg-light-silver"
+body_classes           = "mulish"
+custom_css             = [ "css/custom.css" ]
+featured_image         = "/images/ft_s_paulo.jpg"
+post_content_classes   = "roboto"
+recent_posts_number    = 3
+
+facebook      = ""
+github        = "https://github.com/librity/ft_dev_diaries"
+gitlab        = ""
+instagram     = ""
+linkedin      = "https://www.linkedin.com/in/luis-geniole-b2b22aba/"
+mastodon      = ""
+rss           = ""
+slack         = ""
+stackoverflow = "https://stackoverflow.com/users/12460955/%d7%9c%d7%99%d7%90%d7%95%d7%a8"
+twitter       = ""
+youtube       = ""

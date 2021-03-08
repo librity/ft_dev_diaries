@@ -65,28 +65,68 @@ $ hugo new posts/POST_NAME.md
 
 ## Docs <a name = "docs"></a>
 
+Hugo:
+
 - https://gohugo.io/getting-started/quick-start/
 - https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
-- https://themes.gohugo.io/tags/blog/
+Theme:
+
 - https://github.com/theNewDynamic/gohugo-theme-ananke
 - http://tachyons.io/docs/themes/skins/
 
+CSS:
+
+- http://tachyons.io/docs/
+
+Markdown:
+
+- https://www.markdownguide.org/basic-syntax/
 - https://bookdown.org/yihui/rmarkdown-cookbook/indent-text.html
 - https://riptutorial.com/markdown/example/1796/strikethrough
 
-- https://formspree.io/library
+Misc:
+
 - https://prettier.io/docs/en/cli1.html
 
-- https://disqus.com/
-- https://www.commento.io/
+TOML Formatter:
+
+- https://taplo.tamasfe.dev/configuration/#formatting-options
 
 ## Resources <a name = "resources"></a>
 
-Themes I liked:
+Themes:
 
+- https://themes.gohugo.io/tags/blog/
 - https://themes.gohugo.io/gohugo-theme-ananke/
 - https://themes.gohugo.io/anatole/
 - https://themes.gohugo.io/hugo-theme-diary/
 - https://themes.gohugo.io/hugo-researcher/
 - https://github.com/formspree/blogophonic-hugo
+
+Fonts:
+
+- https://www.designyourway.net/blog/typography/fonts-similar-to-futura/
+- https://fonts.google.com/specimen/Mulish?preview.text_type=custom
+- https://fonts.google.com/specimen/Didact+Gothic?preview.text_type=custom
+- https://fonts.google.com/specimen/Poppins?preview.text_type=custom
+- https://fonts.google.com/specimen/Montserrat?preview.text_type=custom
+
+Comments:
+
+- https://disqus.com/
+- https://www.commento.io/
+
+Forms:
+
+- https://formspree.io/library
+
+Stack Overflow:
+
+- https://stackoverflow.com/questions/17538151/how-to-make-text-take-full-width-of-its-container
+- https://stackoverflow.com/questions/42043648/where-do-i-put-my-favicon-with-hugo
+
+Misc:
+
+- https://github.com/theNewDynamic/awesome-hugo
+- https://www.grammarcheck.net/editor/
