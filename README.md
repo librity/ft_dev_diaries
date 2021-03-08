@@ -75,7 +75,9 @@ $ hugo new posts/POST_NAME.md
 
 - https://formspree.io/library
 - https://prettier.io/docs/en/cli1.html
+
 - https://disqus.com/
+- https://www.commento.io/
 
 ## Resources <a name = "resources"></a>
 
