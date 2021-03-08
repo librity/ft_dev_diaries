@@ -4,6 +4,8 @@
 
 My logbook in the Mothership.
 
+- Production: https://42devdiaries.netlify.app
+
 <img src=".github/dev_diaries_home.png"/>
 
 ## Table of Contents
