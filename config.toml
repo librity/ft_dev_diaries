@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 12
 googleAnalytics = ""
 enableRobotsTXT = true
+disqusShortname = 42devdiaries
 
 [languages]
   [languages.en]
@@ -43,3 +44,4 @@ enableRobotsTXT = true
   background_color_class = "bg-light-silver"
   featured_image = "/images/ft_s_paulo.jpg"
   recent_posts_number = 2
+  commentoEnable = true

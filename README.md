@@ -46,7 +46,7 @@ $ choco install hugo-extended -confirm
 Clone the repo and start a development server:
 
 ```bash
-$ git clone https://github.com/librity/ft_dev_diaries.git
+$ git clone --recursive https://github.com/librity/ft_dev_diaries.git
 $ cd ft_dev_diaries
 $ hugo server -D
 ```
@@ -75,6 +75,7 @@ $ hugo new posts/POST_NAME.md
 
 - https://formspree.io/library
 - https://prettier.io/docs/en/cli1.html
+- https://disqus.com/
 
 ## Resources <a name = "resources"></a>
 
