@@ -6,4 +6,4 @@ draft: false
 
 RSASASDASD TDSTSD
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" alt="TEST" >}}
+{{< figure src="/images/test.jpg" title="Illustration from Victor Hugo et son temps (1881)" alt="TEST" >}}
