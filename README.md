@@ -1,12 +1,14 @@
 # 42 Dev Diaries
 
+<p align="center">
+  <img src=".github/dev_diaries_home.png"/>
+</p>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/729c49dd-90a5-4059-aa68-3efc8195c9a6/deploy-status)](https://app.netlify.com/sites/42devdiaries/deploys)
 
 My logbook in the Mothership.
 
 - Production: https://42devdiaries.netlify.app
-
-<img src=".github/dev_diaries_home.png"/>
 
 ## Table of Contents
 
