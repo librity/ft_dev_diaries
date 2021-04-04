@@ -100,6 +100,10 @@ TOML Formatter:
 
 ## Resources <a name = "resources"></a>
 
+Hugo:
+
+- https://anaulin.org/blog/hugo-raw-html-shortcode/
+
 Themes:
 
 - https://themes.gohugo.io/tags/blog/
