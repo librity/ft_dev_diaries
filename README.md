@@ -28,6 +28,9 @@ A friend told me I should post these online for posterty's sake. I was
 studying GO the other night and I came across a new static site generator
 called [Hugo](https://gohugo.io/), so I thought I'd give it a shot.
 
+Comments powered by [utterance.es](https://utteranc.es/),
+a free comment service with no tracking or adds.
+
 ## Getting Started <a name = "getting_started"></a>
 
 ### Prerequisites
@@ -116,6 +119,7 @@ Fonts:
 
 Comments:
 
+- https://utteranc.es/
 - https://disqus.com/
 - https://www.commento.io/
 

@@ -6,7 +6,6 @@ title        = "42 Dev Diaries"
 DefaultContentLanguage = "en"
 Paginate               = 12
 SectionPagesMenu       = "main"
-disqusShortname        = "42devdiaries"
 enableRobotsTXT        = true
 googleAnalytics        = ""
 
@@ -26,6 +25,8 @@ filename   = "sitemap.xml"
 priority   = 0.5
 
 [params]
+commentoEnable = true
+
 description = "Daily blog posts about my progress on 42 S Paulo."
 favicon     = ""
 site_logo   = ""
