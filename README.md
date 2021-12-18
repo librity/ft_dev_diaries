@@ -31,6 +31,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [42 São Paulo](#ft_sp)
 - [Docs](docs)
 - [Resources](resources)
 
@@ -83,6 +84,21 @@ Create new posts with:
 ```bash
 $ hugo new posts/POST_NAME.md
 ```
+
+## 🛸 42 São Paulo <a name = "ft_sp"></a>
+
+Part of the larger [42 Network](https://www.42.fr/42-network/),
+[42 São Paulo](https://www.42sp.org.br/) is a software engineering school
+that offers a healthy alternative to traditional education:
+
+- It doesn't have any teachers and classes.
+- Students learn by cooperating
+  and correcting each other's work (peer-to-peer learning).
+- Its focus is as much on social skills as it is on technical skills.
+- It's completely free to anyone that passes its selection process -
+  [**The Piscine**](https://42.fr/en/admissions/42-piscine/)
+
+It's an amazing school, and I'm grateful for the opportunity.
 
 ## 📚 Docs <a name="docs"></a>
 
