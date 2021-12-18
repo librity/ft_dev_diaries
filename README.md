@@ -1,14 +1,30 @@
-# 42 Dev Diaries
+<h3 align="center">42 Dev Diaries</h3>
+
+<div align="center">
+
+![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
+![License](https://img.shields.io/github/license/librity/ft_dev_diaries?color=yellow)
+![Code size in bytes](https://img.shields.io/github/languages/code-size/librity/ft_dev_diaries?color=blue)
+![Lines of code](https://img.shields.io/tokei/lines/github/librity/ft_dev_diaries?color=blueviolet)
+![Top language](https://img.shields.io/github/languages/top/librity/ft_dev_diaries?color=ff69b4)
+![Last commit](https://img.shields.io/github/last-commit/librity/ft_dev_diaries?color=orange)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/729c49dd-90a5-4059-aa68-3efc8195c9a6/deploy-status)](https://app.netlify.com/sites/42devdiaries/deploys)
+
+</div>
+
+<p align="center"> My logbook aboard the Mothership.
+  <br>
+</p>
 
 <p align="center">
   <img src=".github/dev_diaries_home.png"/>
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/729c49dd-90a5-4059-aa68-3efc8195c9a6/deploy-status)](https://app.netlify.com/sites/42devdiaries/deploys)
+<p align="center"> Production URL: https://42devdiaries.netlify.app
+  <br>
+</p>
 
-My logbook aboard the Mothership.
-
-- Production: https://42devdiaries.netlify.app
+---
 
 ## Table of Contents
 
@@ -18,7 +34,7 @@ My logbook aboard the Mothership.
 - [Docs](docs)
 - [Resources](resources)
 
-## About <a name = "about"></a>
+## 🧐 About <a name = "about"></a>
 
 About a month ago I began my journey at [42 S Paulo](https://www.42sp.org.br/).
 I started writing daily updates and sharing them with my squad. They're full of
@@ -31,9 +47,9 @@ called [Hugo](https://gohugo.io/), so I thought I'd give it a shot.
 Comments powered by [utterance.es](https://utteranc.es/),
 a free comment service with no tracking or adds.
 
-## Getting Started <a name = "getting_started"></a>
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-### Prerequisites
+### ⚙️ Prerequisites
 
 All you need to get started is the latest version of Hugo in your `$PATH`.
 
@@ -48,7 +64,7 @@ $ sudo apt-get install hugo
 $ choco install hugo-extended -confirm
 ```
 
-### Installing
+### 🖥️ Installing
 
 Clone the repo and start a development server:
 
@@ -60,7 +76,7 @@ $ hugo server -D
 
 Open http://localhost:1313/ on your web browser.
 
-## Usage <a name = "usage"></a>
+## 🎈 Usage <a name="usage"></a>
 
 Create new posts with:
 
@@ -68,7 +84,7 @@ Create new posts with:
 $ hugo new posts/POST_NAME.md
 ```
 
-## Docs <a name = "docs"></a>
+## 📚 Docs <a name="docs"></a>
 
 Hugo:
 
@@ -98,7 +114,7 @@ TOML Formatter:
 
 - https://taplo.tamasfe.dev/configuration/#formatting-options
 
-## Resources <a name = "resources"></a>
+## 📝 Resources <a name="resources"></a>
 
 Hugo:
 
